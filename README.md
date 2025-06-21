@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a second-year Computer Science student in Institut Teknologi Bandung<br>🌱 I’m currently learning Fullstack Development<br>
+🔭 I'm a second-year Computer Science student in Institut Teknologi Bandung<br>🌱 I’m currently learning Fullstack Development<br>📖Interested in Software Engineering and Cybersecurity
 
 
 ## 🌐 Socials:
