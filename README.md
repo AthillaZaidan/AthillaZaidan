@@ -55,7 +55,8 @@
 </div>
 
 ###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=athillazaidan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=athillazaidan&theme=radical">
+</div>
 
 ###
