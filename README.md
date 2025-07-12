@@ -62,7 +62,7 @@
 [![Readme Card](https://athilla-github-readme-stats-9s1d.vercel.app//api/pin/?username=AthillaZaidan&repo=sea-catering-app&theme=radical&border_color=FFC0CB)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://athilla-github-readme-stats-9s1d.vercel.app//api/pin/?username=AthillaZaidan&repo=Tubes-WI2002-LIDIA-Exploratory_Data_Analysis_and_Regression_Analysis&theme=radical&border_color=FFC0CB)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://athilla-github-readme-stats-9s1d.vercel.app//api/top-langs/?username=AthillaZaidan&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://athilla-github-readme-stats-9s1d.vercel.app//api/top-langs/?username=AthillaZaidan&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
