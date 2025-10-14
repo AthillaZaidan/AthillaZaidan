@@ -63,14 +63,8 @@
 ###
 <div align="center">
   
-[![Anurag's GitHub stats](http://athilla-github-readme-stats-9s1d.vercel.app//api?username=AthillaZaidan&show_icons=true&theme=radical&border_color=FFC0CB)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://athilla-github-readme-stats-9s1d.vercel.app//api/pin/?username=AthillaZaidan&repo=TUBES-IF1210-Algorithm_and_Programming_1&theme=radical&border_color=FFC0CB)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://athilla-github-readme-stats-9s1d.vercel.app//api/pin/?username=AthillaZaidan&repo=Load-Balancing-Optimization-in-Content-Delivery-Networks-Using-Minimum-Spanning-Tree-Algorithms&theme=radical&border_color=FFC0CB)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://athilla-github-readme-stats-9s1d.vercel.app//api/pin/?username=AthillaZaidan&repo=sea-catering-app&theme=radical&border_color=FFC0CB)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://athilla-github-readme-stats-9s1d.vercel.app//api/pin/?username=AthillaZaidan&repo=Tubes-WI2002-LIDIA-Exploratory_Data_Analysis_and_Regression_Analysis&theme=radical&border_color=FFC0CB)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://athilla-github-readme-stats-9s1d.vercel.app//api/top-langs/?username=AthillaZaidan&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=AthillaZaidan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=Stats" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AthillaZaidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="300" alt="languages graph"  />
 </div>
 
 ###
