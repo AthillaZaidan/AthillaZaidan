@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">😁 My name is Athilla Zaidan Zidna Fann<br>🔭 I'm a second-year Computer Science student in Institut Teknologi Bandung<br>🌱 I’m currently learning Fullstack Development<br>📖 Interested in Software Engineering and Cybersecurity</p>
+<p align="left">😁 My name is Athilla Zaidan Zidna Fann<br>🔭 I'm a second-year Computer Science student in Institut Teknologi Bandung<br>🌱 I’m currently learning Fullstack Development<br>📖 Interested in Software Engineering and Fullstack Development</p>
 
 ###
 
