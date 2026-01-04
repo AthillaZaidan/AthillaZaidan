@@ -7,8 +7,8 @@
 </div>
 
 ###
-
-<p align="left">💻I'm a second-year Computer Science student in Institut Teknologi Bandung<br>📖I’m currently learning Fullstack Development<br>❇️Interested in Software Engineering and Fullstack Development</p>
+I'm currently pursuing my degree in Computer Science at STEI ITB. <br>
+Really interested in Software Engineering and AI Engineering.
 
 ###
 
