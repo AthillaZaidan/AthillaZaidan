@@ -1,15 +1,18 @@
 <h2 align="left">Hi!, I'm Athilla</h2>
 
 ###
-
+<!--
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
-I'm currently pursuing my degree in Computer Science at STEI ITB. <br>
-Really interested in Software Engineering and AI Engineering.
+-->
 
+A lifelong learner committed to growing better every day. <br>
+Exploring the intersection of Software Engineering and AI Engineering to build impactful solutions for humanity.
+
+<!--
 ###
 
 <h3 align="left">Tech Stack:</h3>
@@ -78,7 +81,7 @@ Really interested in Software Engineering and AI Engineering.
 <h3 align="left">Stats:</h3>
 
 ###
-
+-->
 <div align="left">
   <img src="https://jsndwrd-github-readme-stats.vercel.app/api?username=AthillaZaidan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://jsndwrd-github-readme-stats.vercel.app/api/top-langs?username=AthillaZaidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&exclude_repo=malam-keOS-ini" height="150" alt="languages graph"  />
