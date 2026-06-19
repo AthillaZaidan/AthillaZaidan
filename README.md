@@ -10,8 +10,8 @@ Portofolio: <a href="https://athilla.tech">Click Here!</a>
 ###
 -->
 
-A lifelong learner committed to growing better every day. <br>
-Exploring the intersection of Software Engineering and AI Engineering to build impactful solutions for humanity.
+A lifelong learner committed to growing better every day.  <br>
+Exploring the intersection of <b>Software Engineering and AI Engineering</b> to build impactful solutions for humanity.
 
 <!--
 ###
@@ -83,10 +83,20 @@ Exploring the intersection of Software Engineering and AI Engineering to build i
 
 ###
 -->
-<div align="left">
+<!-- <div align="left">
   <img src="https://jsndwrd-github-readme-stats.vercel.app/api?username=AthillaZaidan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://jsndwrd-github-readme-stats.vercel.app/api/top-langs?username=AthillaZaidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&exclude_repo=malam-keOS-ini,ayam-suwir-borju,Scresh" height="150" alt="languages graph"  />
-</div>
+</div> -->
+
+## Top Selected Projects
+- [Cognify](https://github.com/AthillaZaidan/Cognify) - Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
+- [Vokara](https://github.com/AthillaZaidan/Vokara) - NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and brief automation.
+- [Scresh](https://github.com/AthillaZaidan/Scresh) - AI-powered produce segmentation and freshness assessment platform with automated grading, cold-storage allocation, and distribution intelligence for agricultural supply chains.
+- [Virens](https://github.com/AthillaZaidan/Virens) - Carbon credit verification platform with ML risk scoring, NDVI narration, anomaly tracking, and project dossier dashboard.
+- [Wave](https://github.com/AthillaZaidan/Wave) - AI-assisted water pollution monitoring platform using citizen reports, photo AI, satellite anomalies, and OSM data to generate explainable zone-level risk scores. 
+- [Mjolnir](https://github.com/AthillaZaidan/Mjolnir) - Full-stack digital library with PCA image retrieval and LSA/SVD recommendation engine.
+- [malam-keOS-ini](https://github.com/AthillaZaidan/malam-keOS-ini) - 32-bit x86 OS built from scratch with custom EXT2, round-robin scheduling, and VGA graphics.
+- [Banana-Republic](https://github.com/AthillaZaidan/Banana-Republic) - OOP-based JavaFX hex-board strategy game with resource economy, building mechanics, and plugin-based extensibility.
 
 
 ###
