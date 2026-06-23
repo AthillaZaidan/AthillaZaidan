@@ -89,15 +89,14 @@ Exploring the intersection of <b>Software Engineering and AI Engineering</b> to 
 </div> -->
 
 ## Top Selected Projects
-- [Cognify](https://github.com/AthillaZaidan/Cognify) - Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
-- [Vokara](https://github.com/AthillaZaidan/Vokara) - NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and brief automation.
-- [Scresh](https://github.com/AthillaZaidan/Scresh) - AI-powered produce segmentation and freshness assessment platform with automated grading, cold-storage allocation, and distribution intelligence for agricultural supply chains.
-- [Virens](https://github.com/AthillaZaidan/Virens) - Carbon credit verification platform with ML risk scoring, NDVI narration, anomaly tracking, and project dossier dashboard.
-- [Wave](https://github.com/AthillaZaidan/Wave) - AI-assisted water pollution monitoring platform using citizen reports, photo AI, satellite anomalies, and OSM data to generate explainable zone-level risk scores.
-- [Grandsummit](https://github.com/AthillaZaidan/grandsummit-15th) - Production website and registration system for StudentsxCEOs Grand Summit 15th. The app handles public event pages, BCC and MCC registrations, participant profiles, team management, payment and task uploads, admin registration controls, and Google Sheets export.
-- [Mjolnir](https://github.com/AthillaZaidan/Mjolnir) - Full-stack digital library with PCA image retrieval and LSA/SVD recommendation engine.
-- [malam-keOS-ini](https://github.com/AthillaZaidan/malam-keOS-ini) - 32-bit x86 OS built from scratch with custom EXT2, round-robin scheduling, and VGA graphics.
-- [Banana-Republic](https://github.com/AthillaZaidan/Banana-Republic) - OOP-based JavaFX hex-board strategy game with resource economy, building mechanics, and plugin-based extensibility.
-
+- [Cognify](https://github.com/AthillaZaidan/Cognify) — **4th of 241 teams Nationwide at Harvard HSIL Hackathon Indonesia** <br> Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
+- [Vokara](https://github.com/AthillaZaidan/Vokara) — **5th Nationwide at Hackfest 2026** <br> NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and brief automation.
+- [Scresh](https://github.com/AthillaZaidan/Scresh) — **Finalist at Technoscape 2026** <br> AI-powered produce segmentation and freshness assessment platform with automated grading, cold-storage allocation, and distribution intelligence for agricultural supply chains.
+- [Virens](https://github.com/AthillaZaidan/Virens) — **Semifinalist at IYREF 2026** <br> Carbon credit verification platform with ML risk scoring, NDVI narration, anomaly tracking, and project dossier dashboard.
+- [Wave](https://github.com/AthillaZaidan/Wave) — AI-assisted water pollution monitoring platform using citizen reports, photo AI, satellite anomalies, and OSM data to generate explainable zone-level risk scores.
+- [Grandsummit](https://github.com/AthillaZaidan/grandsummit-15th) — Production website and registration system for StudentsxCEOs Grand Summit 15th. The app handles public event pages, BCC and MCC registrations, participant profiles, team management, payment and task uploads, admin registration controls, and Google Sheets export.
+- [Mjolnir](https://github.com/AthillaZaidan/Mjolnir) — Full-stack digital library with PCA image retrieval and LSA/SVD recommendation engine.
+- [malam-keOS-ini](https://github.com/AthillaZaidan/malam-keOS-ini) — 32-bit x86 OS built from scratch with custom EXT2, round-robin scheduling, and VGA graphics.
+- [Banana-Republic](https://github.com/AthillaZaidan/Banana-Republic) — OOP-based JavaFX hex-board strategy game with resource economy, building mechanics, and plugin-based extensibility.
 
 ###
