@@ -1,4 +1,4 @@
-<h2 align="left">Hi!, I'm Athilla, Currently AI Engineer Intern @ GDP Labs</h2>
+<h2 align="left">Hi!, I'm Athilla, AI Engineer Intern @ GDP Labs</h2>
 Portofolio: <a href="https://athilla.tech">Click Here!</a>
 
 ###
