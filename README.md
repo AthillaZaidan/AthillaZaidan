@@ -11,7 +11,7 @@ Portofolio: <a href="https://athilla.tech">Click Here!</a>
 -->
 
 A lifelong learner committed to growing better every day.  <br>
-Exploring the intersection of <b>Software Engineering and AI Engineering</b> to build impactful solutions for humanity.
+Exploring the intersection of <b>SWE and AI/ML</b> to build impactful solutions for humanity.
 
 <!--
 ###
