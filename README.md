@@ -76,7 +76,7 @@
 </div> -->
 
 ## Top Selected Projects
-- [SafeTrip](https://github.com/AthillaZaidan/SafeTrip) - **National Winner out of 650++ Participants at Garuda Hacks 7.0** <br> AI-powered public transport safety platform for real-time CCTV monitoring, incident detection, passenger reporting, and evidence-based investigation.
+- [SafeTrip](https://github.com/AthillaZaidan/SafeTrip) — **National Winner out of 650++ Participants at Garuda Hacks 7.0** <br> AI-powered public transport safety platform for real-time CCTV monitoring, incident detection, passenger reporting, and evidence-based investigation.
 - [Cognify](https://github.com/AthillaZaidan/Cognify) — **4th of 241 teams Nationwide at Harvard HSIL Hackathon Indonesia** <br> Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
 - [Vokara](https://github.com/AthillaZaidan/Vokara) — **5th Nationwide at Hackfest 2026** <br> NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and brief automation.
 - [Scresh](https://github.com/AthillaZaidan/Scresh) — **Finalist at Technoscape 2026** <br> AI-powered produce segmentation and freshness assessment platform with automated grading, cold-storage allocation, and distribution intelligence for agricultural supply chains.
