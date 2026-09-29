@@ -79,11 +79,11 @@
 - 1st Place Winner at Garuda Hacks 7.0 - Python, YOLOv11, OpenCV,  Qwen3 4B, Gemini VLM <br>
 Built [Safetrip](https://github.com/AthillaZaidan/Safetrip) an AI-powered public transport safety platform for real-time CCTV monitoring, incident detection, passenger reporting, and evidence-based investigation. 
 - 2nd Place Winner at AI Innovation Competition Compfest 18 - RAG Systems, Agentic Workflow, DINOv3, PGVector <br>
-Built Fishora an AI fisheries platform with a DINOv3 fish classifier (86% field accuracy) and a writer–critic RAG pipeline, backed by an LLM evaluation framework with a validated LLM-as-a-judge that lifted evidence-supported claims from 53% to 100%.
+Built [Fishora](https://github.com/AthillaZaidan/Fishora) an AI fisheries platform with a DINOv3 fish classifier (86% field accuracy) and a writer–critic RAG pipeline, backed by an LLM evaluation framework with a validated LLM-as-a-judge that lifted evidence-supported claims from 53% to 100%.
 - 4th Place at Harvard HSIL Hackathon - Python, scikit-learn, Isolation Forest, SHAP <br>
-Built Cognify a Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
+Built [Cognify](https://github.com/AthillaZaidan/Cognify) a Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
 - 5th Place at Hackfest 2026 - NLP, IndoBERT, FastAPI, PostgreSQL, Qwen 3.5 <br>
-Built Vokara a NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and LLM brief automation.
+Built [Vokara](https://github.com/AthillaZaidan/Vokara) a NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and LLM brief automation.
 - Finalist at Technoscape 2026 - Python, Computer Vision, Segmentation, Optimization <br>
 Built [Scresh](https://github.com/AthillaZaidan/Scresh) an AI-powered produce segmentation and freshness assessment platform with automated grading, cold-storage allocation, and distribution intelligence for agricultural supply chains.
 - Semifinalist at IYREF 2026 - Machine Learning, NDVI, Anomaly Detection, Dashboard <br>
