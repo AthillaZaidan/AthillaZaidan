@@ -75,16 +75,27 @@
   <img src="https://jsndwrd-github-readme-stats.vercel.app/api/top-langs?username=AthillaZaidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&exclude_repo=malam-keOS-ini,ayam-suwir-borju,Scresh" height="150" alt="languages graph"  />
 </div> -->
 
-## Top Selected Projects
-- [SafeTrip](https://github.com/AthillaZaidan/SafeTrip) — **National Winner out of 650++ Participants at Garuda Hacks 7.0** <br> AI-powered public transport safety platform for real-time CCTV monitoring, incident detection, passenger reporting, and evidence-based investigation.
-- [Cognify](https://github.com/AthillaZaidan/Cognify) — **4th of 241 teams Nationwide at Harvard HSIL Hackathon Indonesia** <br> Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
-- [Vokara](https://github.com/AthillaZaidan/Vokara) — **5th Nationwide at Hackfest 2026** <br> NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and brief automation.
-- [Scresh](https://github.com/AthillaZaidan/Scresh) — **Finalist at Technoscape 2026** <br> AI-powered produce segmentation and freshness assessment platform with automated grading, cold-storage allocation, and distribution intelligence for agricultural supply chains.
-- [Virens](https://github.com/AthillaZaidan/Virens) — **Semifinalist at IYREF 2026** <br> Carbon credit verification platform with ML risk scoring, NDVI narration, anomaly tracking, and project dossier dashboard.
-- [Wave](https://github.com/AthillaZaidan/Wave) — AI-assisted water pollution monitoring platform using citizen reports, photo AI, satellite anomalies, and OSM data to generate explainable zone-level risk scores.
-- [Grandsummit](https://github.com/AthillaZaidan/grandsummit-15th) — Production website and registration system for StudentsxCEOs Grand Summit 15th. The app handles public event pages, BCC and MCC registrations, participant profiles, team management, payment and task uploads, admin registration controls, and Google Sheets export.
-- [Mjolnir](https://github.com/AthillaZaidan/Mjolnir) — Full-stack digital library with PCA image retrieval and LSA/SVD recommendation engine.
-- [malam-keOS-ini](https://github.com/AthillaZaidan/malam-keOS-ini) — 32-bit x86 OS built from scratch with custom EXT2, round-robin scheduling, and VGA graphics.
-- [Banana-Republic](https://github.com/AthillaZaidan/Banana-Republic) — OOP-based JavaFX hex-board strategy game with resource economy, building mechanics, and plugin-based extensibility.
-
+## Projects & Awards
+- 1st Place Winner at Garuda Hacks 7.0 - Python, YOLOv11, OpenCV,  Qwen3 4B, Gemini VLM <br>
+Built [Safetrip](https://github.com/AthillaZaidan/Safetrip) an AI-powered public transport safety platform for real-time CCTV monitoring, incident detection, passenger reporting, and evidence-based investigation. 
+- 2nd Place Winner at AI Innovation Competition Compfest 18 - RAG Systems, Agentic Workflow, DINOv3, PGVector <br>
+Built Fishora an AI fisheries platform with a DINOv3 fish classifier (86% field accuracy) and a writer–critic RAG pipeline, backed by an LLM evaluation framework with a validated LLM-as-a-judge that lifted evidence-supported claims from 53% to 100%.
+- 4th Place at Harvard HSIL Hackathon - Python, scikit-learn, Isolation Forest, SHAP <br>
+Built Cognify a Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
+- 5th Place at Hackfest 2026 - NLP, IndoBERT, FastAPI, PostgreSQL, Qwen 3.5 <br>
+Built Vokara a NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and LLM brief automation.
+- Finalist at Technoscape 2026 - Python, Computer Vision, Segmentation, Optimization <br>
+Built [Scresh](https://github.com/AthillaZaidan/Scresh) an AI-powered produce segmentation and freshness assessment platform with automated grading, cold-storage allocation, and distribution intelligence for agricultural supply chains.
+- Semifinalist at IYREF 2026 - Machine Learning, NDVI, Anomaly Detection, Dashboard <br>
+Built [Virens](https://github.com/AthillaZaidan/Virens) a carbon credit verification platform with ML risk scoring, NDVI narration, anomaly tracking, and project dossier dashboard.
+- Wave - Photo AI, Satellite Anomaly Detection, OpenStreetMap, Risk Scoring <br>
+Built [Wave](https://github.com/AthillaZaidan/Wave) an AI-assisted water pollution monitoring platform using citizen reports, photo AI, satellite anomalies, and OSM data to generate explainable zone-level risk scores.
+- Grandsummit - Fullstack Web, Registration System, Google Sheets Export <br>
+Built [Grandsummit](https://github.com/AthillaZaidan/grandsummit-15th) the production website and registration system for StudentsxCEOs Grand Summit 15th, handling public event pages, BCC and MCC registrations, participant profiles, team management, payment and task uploads, admin registration controls, and Google Sheets export.
+- Mjolnir - Fullstack Web, PCA, LSA/SVD, Recommendation Engine <br>
+Built [Mjolnir](https://github.com/AthillaZaidan/Mjolnir) a full-stack digital library with PCA image retrieval and LSA/SVD recommendation engine.
+- malam-keOS-ini - C, x86 Assembly, EXT2, Round-Robin Scheduling, VGA Graphics <br>
+Built [malam-keOS-ini](https://github.com/AthillaZaidan/malam-keOS-ini) a 32-bit x86 OS from scratch with custom EXT2, round-robin scheduling, and VGA graphics.
+- Banana-Republic - Java, JavaFX, OOP, Plugin Architecture <br>
+Built [Banana-Republic](https://github.com/AthillaZaidan/Banana-Republic) an OOP-based JavaFX hex-board strategy game with resource economy, building mechanics, and plugin-based extensibility.
 ###
