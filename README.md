@@ -1,4 +1,4 @@
-<h2 align="left">Hi!, I'm Athilla, Currently Benchmarking AI @ GDP Labs, Growing @ CS ITB</h2>
+<h2 align="left">Hi!, I'm Athilla, Currently AI Engineer Intern @ GDP Labs, Growing @ CS ITB</h2>
 <h3> Specializing in SWE and AI/ML, My Works: <a href="https://athilla.tech">athilla.tech</a></h3>
 <!--
 ###
