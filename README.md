@@ -1,5 +1,5 @@
 <h2 align="left">Hi!, I'm Athilla, Growing @ CS ITB</h2>
-<h3> Specializing in SWE and AI/ML, My Works: <a href="https://athilla.tech">athilla.tech</a></h3>
+<h3> Specializing in SWE and AI/ML, Currently learning MLOps My Works: <a href="https://athilla.tech">athilla.tech</a></h3>
 <!--
 ###
 
