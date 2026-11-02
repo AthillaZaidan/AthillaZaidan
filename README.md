@@ -76,14 +76,22 @@
 </div> -->
 
 ## Projects & Awards
-- 1st Place Winner at Garuda Hacks 7.0 - Python, YOLOv11, OpenCV,  Qwen3 4B, Gemini VLM <br>
-Built [Safetrip](https://github.com/AthillaZaidan/Safetrip) an AI-powered public transport safety platform for real-time CCTV monitoring, incident detection, passenger reporting, and evidence-based investigation. 
-- 2nd Place Winner at AI Innovation Challenge Compfest 18 - RAG Systems, Agentic Workflow, DINOv3, PGVector <br>
-Built [Fishora](https://github.com/AthillaZaidan/Fishora) an AI fisheries platform with a DINOv3 fish classifier (86% field accuracy) and a writer–critic RAG pipeline, backed by an LLM evaluation framework with a validated LLM-as-a-judge that lifted evidence-supported claims from 53% to 100%.
-- 4th Place at Harvard HSIL Hackathon - Python, scikit-learn, Isolation Forest, SHAP <br>
-Built [Cognify](https://github.com/AthillaZaidan/Cognify) a Passive ADHD relapse detector using smartphone behavioral metadata, anomaly detection, and SHAP explainability for early-warning mental health monitoring.
-- 5th Place at Hackfest 2026 - NLP, IndoBERT, FastAPI, PostgreSQL, Qwen 3.5 <br>
-Built [Vokara](https://github.com/AthillaZaidan/Vokara) a NLP Citizen aspiration intelligence platform with semantic clustering, priority scoring, policy alignment, and LLM brief automation.
+- **1st National Winner at Garuda Hacks 7.0** - Python, YOLOv11, OpenCV, Qwen3 4B, Gemini VLM
+  - Built [SafeTrip](https://github.com/AthillaZaidan/SafeTrip), a human-in-the-loop railway CCTV safety system that detects restricted-zone intrusion, person-down, and crowd compression in real time using YOLO11 + ByteTrack tracking and temporal rule confirmation, exporting explainable alerts with evidence clips.
+  - Engineered a post-incident investigation flow where Qwen3 4B turns passenger reports into search attributes and a Gemini VLM verifies candidate CCTV clips for a human-verified timeline.
+- **2nd National Winner at AI Innovation Challenge Compfest 18 Universitas Indonesia** - RAG Systems, Agentic Workflow, DINOv3, PGVector
+  - Built [Fishora](https://github.com/AthillaZaidan/Fishora), an AI catch-intelligence platform whose gated DINOv3 classifier reaches 86% field-photo accuracy, rejects all non-fish images, and cuts confident errors from 21.3% to 1.6% at 3.9 images/s on CPU.
+  - Engineered a writer–critic RAG pipeline that writes source-cited fish knowledge cards, backed by an LLM-as-a-judge evaluation framework that lifted evidence-supported claims from 53% to 100%.
+- **3rd International Winner at Data Analysis Competition PRS ITS 2026** - Python, CatBoost, LightGBM, XGBoost, scikit-learn
+  - Built a [healthcare claim fraud ranking](https://github.com/IndomaretLabtekV/prs-its-2026) model for a 5% audit budget over 160K+ insurance claims, using leakage-free grouped cross-validation on 17,906 duplicate claims; the CatBoost ensemble reached 0.9705 OOF Normalized Recall@5%, catching 7,772 fraud claims in 8,008 audits.
+- **1st Honorable Mention at Data Mining Competition HOLOGY 9.0 Universitas Brawijaya** - Python, PyTorch, DINOv3, Segmentation
+  - Built a [paddy field segmentation](https://github.com/IndomaretLabtekV/hology) model for Pleiades satellite imagery with a satellite-pretrained DINOv3 ViT-L encoder and a DPT + FPN decoder, validated with purged spatial cross-validation and D4 test-time augmentation.
+- **4th National Winner at Harvard HSIL Hackathon** - Python, scikit-learn, Isolation Forest, SHAP
+  - Built [Cognify](https://github.com/AthillaZaidan/Cognify), a privacy-first mobile app that detects ADHD relapse from 5 passive smartphone metadata signals (sleep, app switching, screen time, session fragmentation) and alerts both patients and psychologists.
+  - Trained an Isolation Forest + z-score ensemble with SHAP explanations on the OBF-Psychiatric dataset, reaching 0.85 AUC-ROC and showing which behavioral signal triggered each alert.
+- **5th National Winner at Hackfest 2026** - NLP, IndoBERT, FastAPI, PostgreSQL, Qwen 3.5
+  - Built [Vokara](https://github.com/AthillaZaidan/Vokara), a citizen aspiration platform that routes reports into operational tickets or strategic issues, clusters similar aspirations by semantic embeddings, and ranks them by regional and population-weighted priority.
+  - Fine-tuned a multi-task IndoBERTweet model on public complaint data plus LLM-generated synthetic data for category and Asta Cita classification (85.2% macro F1), and automated 7-section policy briefs with a local LLM.
 - Finalist at Technoscape 2026 - Python, Computer Vision, Segmentation, Optimization <br>
 Built [Scresh](https://github.com/AthillaZaidan/Scresh) an AI-powered produce segmentation and freshness assessment platform with automated grading, cold-storage allocation, and distribution intelligence for agricultural supply chains.
 - Semifinalist at IYREF 2026 - Machine Learning, NDVI, Anomaly Detection, Dashboard <br>
