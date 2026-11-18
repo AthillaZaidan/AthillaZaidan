@@ -1,4 +1,4 @@
-<h2 align="left">Hi!, I'm Athilla, Penultimate Student @ Computer Science @ Institut Teknologi Bandung</h2>
+<h2 align="left">Hi!, I'm Athilla, Penultimate  Computer Science Student @ Institut Teknologi Bandung</h2>
 <h3> Specializing in SWE and AI/ML, Currently learning MLOps, My Works: <a href="https://athilla.tech">athilla.tech</a></h3>
 <!--
 ###
